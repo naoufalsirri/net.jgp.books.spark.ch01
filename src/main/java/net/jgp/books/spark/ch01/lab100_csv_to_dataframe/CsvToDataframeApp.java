@@ -39,5 +39,7 @@ public class CsvToDataframeApp {
 
     // Shows at most 5 rows from the dataframe
     df.show(5);
+
+    System.out.println("do some commit");
   }
 }
