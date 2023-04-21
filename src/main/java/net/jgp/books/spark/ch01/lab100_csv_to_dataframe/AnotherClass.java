@@ -4,4 +4,5 @@ public class AnotherClass {
     private String nom;
     private String prenom;
     private int age;
+    private int salaire;
 }
